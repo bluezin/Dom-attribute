@@ -1,0 +1,15 @@
+body{
+    text-align: center;
+    color: black;
+    background-color: tomato;
+    text-transform: uppercase;
+}
+
+.textt{
+    border: 10px solid rosybrown;
+    padding: 15px;
+}
+.text1{
+    padding: 15px;
+    margin: 10px;
+}
